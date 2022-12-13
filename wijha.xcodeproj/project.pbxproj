@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1A9D40C12946352900CD8748 /* bookmard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A9D40C02946352900CD8748 /* bookmard.swift */; };
 		1ADC92F42940B21700933719 /* wijhaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1ADC92F32940B21700933719 /* wijhaApp.swift */; };
 		1ADC92F62940B21700933719 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1ADC92F52940B21700933719 /* ContentView.swift */; };
 		1ADC92F82940B21800933719 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1ADC92F72940B21800933719 /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1A9D40C02946352900CD8748 /* bookmard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bookmard.swift; sourceTree = "<group>"; };
 		1ADC92F02940B21700933719 /* wijha.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = wijha.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1ADC92F32940B21700933719 /* wijhaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = wijhaApp.swift; sourceTree = "<group>"; };
 		1ADC92F52940B21700933719 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -75,6 +77,7 @@
 		1ADC92E72940B21700933719 = {
 			isa = PBXGroup;
 			children = (
+				1A9D40C02946352900CD8748 /* bookmard.swift */,
 				1ADC92F22940B21700933719 /* wijha */,
 				1ADC93042940B21800933719 /* wijhaTests */,
 				1ADC930E2940B21800933719 /* wijhaUITests */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1ADC92F62940B21700933719 /* ContentView.swift in Sources */,
+				1A9D40C12946352900CD8748 /* bookmard.swift in Sources */,
 				1ADC92F42940B21700933719 /* wijhaApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
